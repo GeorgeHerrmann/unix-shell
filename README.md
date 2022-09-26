@@ -1,8 +1,6 @@
 # unix-shell
 Mimics a basic unix command-line shell, written in C
 
-All code was written by George Herrmann
-
 To compile:
     - Type make into standard input
 
@@ -13,3 +11,5 @@ To run:
 
 To clean:
     - Type make clean into standard input
+
+This program was written in late 2021 by George Herrmann
